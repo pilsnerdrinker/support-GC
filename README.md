@@ -2,8 +2,6 @@
 
 FF14「絶妖星乱舞」P4 グランドクロスのデバフ・真偽・カオスを入力して、自分がどう動くかを確認する補助表です。
 
-公開ページ: https://pilsnerdrinker.github.io/practice-grandcross-helper/
-
 ## 使い方
 
 1. `1回目GC` タブで、1回目の情報を入力します。
